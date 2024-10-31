@@ -4,9 +4,6 @@
 #Utilizing Artificial Intelligence for Aphasia Treatment in Medicine.
 
 
-## For what and why? It's oddly specific, no doubt. I think the reasons behind this may be more helpful.
-
-
 Back in 2018 my younger brother had a stroke. The difficulties stroke patients deal with are tremendous to say the least. One of the issues that emerged I personally find troubling. It's called aphasia.
 
 
@@ -30,13 +27,13 @@ What's the primary focus of AI they determined in this study? I can be broken do
 
 What I envision is the use of augmented reality that can suggest words or sentences to the patients. This is an extremely complicated problem to solve which as the authors conclude will take a considerable amount of research and more importantly funding to be able to achieve. With that being said it's a problem worth solving as everyone deserves a voice. We could use apple goggles to augment the reality and auto predict to help out the users with the words they're trying to find. This would greatly help aphasia patients. 
 
-A competitive analysis for AI in aphasia treatment must consider advanced projects like Elon Musk's Neuralink, which brings neurotechnology to the forefront. Neuralink’s brain-computer interface (BCI) could offer a revolutionary solution by directly stimulating and interpreting brain signals, potentially bypassing some speech production obstacles that aphasia patients face. This approach diverges significantly from conventional NLP and speech processing models by targeting neural pathways for direct communication, which may drastically improve outcomes for patients with severe aphasia (Neuralink, 2024).
+A competitive analysis for AI in aphasia treatment must consider advanced projects like Elon Musk's Neuralink, which brings neurotechnology to the forefront. Neuralink’s brain-computer interface (BCI) could offer a revolutionary solution by directly stimulating and interpreting brain signals, potentially bypassing some speech production obstacles that aphasia patients face. This approach diverges significantly from conventional NLP and speech processing models by targeting neural pathways for direct communication, which may drastically improve outcomes for patients with severe aphasia (Neuralink, 2024). This would be a formidable competitor. 
 
 While AI-driven NLP and speech recognition models aid in aphasia rehabilitation by analyzing linguistic patterns and acoustic features, they are inherently limited by their dependency on language structure and verbal output. Current models often struggle with severe cases where speech production is heavily impaired, yielding high error rates in phoneme recognition and inadequate personalization for the complex variability across aphasia types​ (AphasiaBank)(Frontiers). Neuralink’s neurostimulation bypasses these challenges by enabling direct brain-to-device communication, which could reduce dependency on vocal abilities, allowing patients to communicate even if traditional speech is compromised (Neuralink, 2024).
 
 Incorporating these insights into your analysis offers a clear view of how Neuralink’s invasive yet potentially transformative approach stands apart from current AI models.
 
-Unfortunately for severe cases there may be no solution. As tragic as it is there's only so much you can do for someone whose brain is severely damaged. In these instances dedicated therapist care may be the only way to help them. 
+Unfortunately for severe cases there may be no solution. As tragic as it is there's only so much you can do for someone whose brain is severely damaged. In these instances dedicated therapist care may be the only way to help them. The interface for usable patients would have to be seamless and easy to use. There would be extensive design challenges. The broad ranging affects of aphasia could make this challenging but these are all solvable problems. Aproximately 2 million people have aphasia here in the states which is a sizeable amount to help out (ASHA). As the future unfolds so will the ability to treat these patients. As for core metrics, I'd say positively helping patients with aphasia or even ending it would be the goal we could track!
 
 
 Scoping Review
@@ -50,3 +47,6 @@ https://aphasia.talkbank.org/publications/2023/Azevedo23.pdf
 
 Frontiers. 
 https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1401240/pdf
+
+American Speech-Language-Hearing Association
+https://www.asha.org/news/2022/aphasia-relatively-unknown-but-common/
